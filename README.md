@@ -1,5 +1,37 @@
 # COPY 1 Hackathon
 
+## How to run
+To run this code you will need to install node.js on your computer. [Download from nodejs.org](https://nodejs.org/en). You will also need a WikiData account and an access token from the credentials in this account.
+
+### Obtaining a WikiData access/bearer token
+Follow [these instructions](https://www.wikidata.org/wiki/Wikidata:REST_API/Authentication) to create a WikiData account and set-up OAuth2.0. Once you have set-up OAuth2.0 you will be given the following, keep these safe:
+- Client application key
+- Client application secret
+- Access token
+
+Use these to obtain the 'bearer token' also known as 'access token'. This is a security token that verifies you to WikiData and will grant access. To obtain the access token follow the [Authentication instructions](https://api.wikimedia.org/wiki/Authentication) on the WikiData API documents. When it comes to the CURL command, you can run this in the Terminal on a Mac or the Command Line on Windows (from Windows 10). The WikiData instructions are a bit unclear, where it says `YOUR_CLIENT_ID` this is the 'Client Application Key'. `YOUR_CLIENT_SECRET` is the 'Client Application Secret'.
+
+Run the following CURL from the instructions:
+`# Request an access token using a client ID and secret
+curl -X POST -d 'grant_type=client_credentials' \
+-d 'client_id=YOUR_CLIENT_ID' \
+-d 'client_secret=YOUR_CLIENT_SECRET' \
+https://meta.wikimedia.org/w/rest.php/oauth2/access_token`
+
+You should receive a Bearer token back in the terminal. Copy the value from the key 'access_token'. This is your bearer token. In the .env file add a line for `BEARER_TOKEN` like so: 
+`BEARER_TOKEN=ReplaceWithTheBearerTokenYouHaveReceieved`
+When you run the app, you should now receive responses from the WikiData API.
+
+### Installing and running the code
+In the Terminal (Mac) or Node.js Terminal (Windows) navigate to the folder using the 'cd' command. E.g. `cd /national-archives/app`. 
+
+Install the app by typing `npm i` into the terminal.
+
+Once installed you can run it from this folder by typing `npm run start`.
+The app should tell you that it's now running at `http://0.0.0.0:5555`. Open a web browser and type this and you should see the webpage.
+
+You can quit/shutdown the app by pressing Ctrl + C on the keyboard while on the terminal.
+
 ## Guide to the data
 There are two folders, one for Images and one for Metadata. The images are all extracted from the PDFs available to download at: https://discovery.nationalarchives.gov.uk/details/r/C325807
 
