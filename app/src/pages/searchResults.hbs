@@ -26,36 +26,30 @@
     <!-- Import the webpage's stylesheet -->
     <link rel="stylesheet" href="/style.css" />
 
-    <!-- This is a handlebars IF statement
-         Checking for a custom "color" parameter from server.js -->
-    {{#if color}}
-      <!-- If there is a color value, update the style for the page title -->
-      <style>
-        .title { color:
-        {{color}}; }
-      </style>
-    {{/if}}
   </head>
   <body>
     <div class="wrapper">
       <div class="content" role="main">
 
         <!-- This is the start of content for our page -->
-        <h1 class="title">Named person search</h1>
+        <h1 class="title">Results from WikiData</h1>
+        <ul>
+          {{#each data}}
+            <li><a href="#{{@key}}">{{@key}}</a></li>
+          {{/each}}
+        </ul>
 
-        <form action="/search" method="POST">
-          <label>
-            Enter WikiData ID:
-            <i>For example: Q43922</i>
-            <input type="text" id="searchTerm" name="wid" />
-          </label>
-          <button>
-            Search
-          </button>
-        </form>
+        {{#each data}}
+          <p id="{{@key}}">{{@key}}</p>
+          <ul>
+            {{#each this}}
+              <li>{{@key}}: {{this}}</li>
+            {{else}}
+              <p></p>
+            {{/each}}
+          </ul>
+        {{/each}}
       </div>
     </div>
-    <!-- The footer holds our remix button — you can use it for structure or cut it out ✂ -->
-
   </body>
 </html>

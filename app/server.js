@@ -6,6 +6,7 @@
 require("dotenv").config({ path: __dirname + "/.env" });
 const path = require("path");
 const fetch = require("node-fetch");
+const search = require("./controllers/searchEngine.js");
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -34,9 +35,8 @@ fastify.register(require("@fastify/view"), {
 
 // Load and parse SEO data
 const seo = require("./src/seo.json");
-if (seo.url === "glitch-default") {
-  seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
-}
+
+seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
 
 /**
  * Our home page route
@@ -115,13 +115,24 @@ fastify.post("/", function (request, reply) {
   return reply.view("/src/pages/index.hbs", params);
 });
 
-fastify.post("/search", async function (request, reply) {
-  let wiki_id = "Q43922";
+// Redirect GET /search to the homepage
+fastify.get("/search", function (request, reply) {
+  return reply.redirect("/");
+});
 
-  const wikiData = await requestQuery(wiki_id);
-  console.log("got the wikiData");
-  debugger;
-  return { data: wikiData };
+// Handle search requests from the form
+fastify.post("/search", async function (request, reply) {
+  console.log("request.body:", request.body);
+
+  // Get the incoming WikiData Page ID from the form
+  let wiki_id = request.body.wid;
+
+  // Search the WikiData API using this ID
+  const wikiData = await search.requestQuery(wiki_id);
+  console.log("Back from the search with the wikiData: ", wikiData);
+
+  // Return the results to a webpage
+  return reply.view("src/pages/searchResults.hbs", { data: wikiData });
 });
 
 // Run the server and report out to the logs
@@ -135,50 +146,3 @@ fastify.listen(
     console.log(`Your app is listening on ${address}`);
   }
 );
-
-async function requestQuery(wikidataid) {
-  const url =
-    "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922";
-
-  const res = await fetch(url, {
-    method: "GET",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
-    },
-  });
-
-  const data = await res.json();
-
-  console.log("response data: ", data);
-
-  return data;
-
-  //   return new Promise(async function(resolve, reject) {
-  //     // console.log("url:", url)
-  //     //let url = "https://en.wikipedia.org/w/api.php?origin=*";
-
-  //     // do something with wikidataid
-  //     let url = "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922"
-  //     debugger
-  //     let fetchedVal = fetch(url, {
-  //       method: 'GET',
-  //       headers: {
-  //          "User-Agent": "NationalArchivesNamedPersons (https://tna-named-persons.glitch.me/; jonnowitts@gmail.com)"
-  //       }
-  //     })
-  //     .then((res) => {
-  //       //console.log('Status: ' + res.status + ': ' + res.statusText)
-  //       return res.json()
-  //     })
-  //     .then((data) => {ssd
-  //       //console.log('data: ', resolve)
-  //       return resolve(data.query)
-  //     })
-  //     .catch((err) => {
-  //       console.error(err)
-  //     })
-
-  //     return fetchedVal
-  //   })
-}
