@@ -22,6 +22,8 @@ You should receive a Bearer token back in the terminal. Copy the value from the 
 `BEARER_TOKEN=ReplaceWithTheBearerTokenYouHaveReceieved`
 When you run the app, you should now receive responses from the WikiData API.
 
+Tokens will expire after 4 hours, you will need to run this again once that happens.
+
 ### Installing and running the code
 In the Terminal (Mac) or Node.js Terminal (Windows) navigate to the folder using the 'cd' command. E.g. `cd /national-archives/app`. 
 
