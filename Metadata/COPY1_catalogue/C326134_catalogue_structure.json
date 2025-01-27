@@ -1,0 +1,1702 @@
+{
+"C9393136": {
+"catalogueId": -4686340,
+"citableReference": "COPY 1/386/1",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, football, punt, plate 301.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from left hand side of subject. Second sequence comprises 22 photographic images, in a two rows, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393136",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, football, punt, plate 301.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from left hand side of subject. Second sequence comprises 22 photographic images, in a two rows, showing movement from front of the subject."
+},
+"C9393138": {
+"catalogueId": -4686342,
+"citableReference": "COPY 1/386/2",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male picking up a ball and throwing it, plate 302.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393138",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male picking up a ball and throwing it, plate 302.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement front and right hand side of subject."
+},
+"C9393377": {
+"catalogueId": -4686582,
+"citableReference": "COPY 1/386/3",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of female picking up a ball and throwing it, plate 303.&#34 </p><p>Sheet comprises sequence of 30 photographic images, of varying width, set in 3 rows, showing movement from right hand side, front and back of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393377",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of female picking up a ball and throwing it, plate 303.\" \nSheet comprises sequence of 30 photographic images, of varying width, set in 3 rows, showing movement from right hand side, front and back of subject. "
+},
+"C9393379": {
+"catalogueId": -4686584,
+"citableReference": "COPY 1/386/4",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of female picking up a ball and throwing it, plate 304.&#34 </p><p>Sheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393379",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of female picking up a ball and throwing it, plate 304.\" \nSheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject."
+},
+"C9393381": {
+"catalogueId": -4686586,
+"citableReference": "COPY 1/386/5",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of female picking up a ball and throwing it, plate 305.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, back and front of dressed subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393381",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of female picking up a ball and throwing it, plate 305.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, back and front of dressed subject. "
+},
+"C9393384": {
+"catalogueId": -4686589,
+"citableReference": "COPY 1/386/6",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of female picking up a ball and throwing it, plate 306.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, front and back of dressed subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393384",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of female picking up a ball and throwing it, plate 306.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, front and back of dressed subject. "
+},
+"C9393386": {
+"catalogueId": -4686591,
+"citableReference": "COPY 1/386/7",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male throwing an iron disk, plate 307.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393386",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male throwing an iron disk, plate 307.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject. "
+},
+"C9393388": {
+"catalogueId": -4686593,
+"citableReference": "COPY 1/386/8",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male throwing the hammer, plate 308.&#34 </p><p>Sheet comprises sequence of 22 photographic images, set in 2 rows, showing movement from front and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393388",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male throwing the hammer, plate 308.\" \nSheet comprises sequence of 22 photographic images, set in 2 rows, showing movement from front and right hand side of subject. "
+},
+"C9393389": {
+"catalogueId": -4686594,
+"citableReference": "COPY 1/386/9",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male throwing the hammer, plate 309.&#34 </p> <p>Sheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from right hand side and back of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393389",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male throwing the hammer, plate 309.\" \nSheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from right hand side and back of subject. "
+},
+"C9393391": {
+"catalogueId": -4686596,
+"citableReference": "COPY 1/386/10",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male putting the shot, plate 310.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front, left hand side and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393391",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male putting the shot, plate 310.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front, left hand side and right hand side of subject. "
+},
+"C9393392": {
+"catalogueId": -4686597,
+"citableReference": "COPY 1/386/11",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 75lb rock, plate 311.&#34 </p> <p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393392",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 75lb rock, plate 311.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject. "
+},
+"C9393394": {
+"catalogueId": -4686599,
+"citableReference": "COPY 1/386/12",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 75lb rock, plate 312.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from left hand side and front of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393394",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 75lb rock, plate 312.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from left hand side and front of subject. "
+},
+"C9393395": {
+"catalogueId": -4686600,
+"citableReference": "COPY 1/386/13",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 20lb rock, plate 313.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 10 photographic images, in 1 row, showing movement from back of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393395",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 20lb rock, plate 313.\" \nSheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 10 photographic images, in 1 row, showing movement from back of the subject."
+},
+"C9393397": {
+"catalogueId": -4686602,
+"citableReference": "COPY 1/386/14",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 20lb rock, plate 314.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 10 photographic images, in 1 row, showing movement from front of the subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393397",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 20lb rock, plate 314.\" \nSheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 10 photographic images, in 1 row, showing movement from front of the subject. "
+},
+"C9393399": {
+"catalogueId": -4686604,
+"citableReference": "COPY 1/386/15",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 20lb rock, plate 315.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393399",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 20lb rock, plate 315.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side of subject. "
+},
+"C9393402": {
+"catalogueId": -4686607,
+"citableReference": "COPY 1/386/16",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 20lb rock, plate 316.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, of varying width, set in 2 rows, showing movement from back of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393402",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 20lb rock, plate 316.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, of varying width, set in 2 rows, showing movement from back of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject. "
+},
+"C9393403": {
+"catalogueId": -4686608,
+"citableReference": "COPY 1/386/17",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 75lb rock, plate 317.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393403",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 75lb rock, plate 317.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front and back of subject."
+},
+"C9393405": {
+"catalogueId": -4686610,
+"citableReference": "COPY 1/386/18",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting 75lb rock, plate 318.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and left hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393405",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting 75lb rock, plate 318.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and left hand side of subject. "
+},
+"C9393407": {
+"catalogueId": -4686612,
+"citableReference": "COPY 1/386/19",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving 75lb rock, plate 319.&#34 </p><p>Sheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393407",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving 75lb rock, plate 319.\" \nSheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front and right hand side of subject. "
+},
+"C9393409": {
+"catalogueId": -4686614,
+"citableReference": "COPY 1/386/20",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting 50lb dumbbell, plate 320.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393409",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting 50lb dumbbell, plate 320.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject. "
+},
+"C9393410": {
+"catalogueId": -4686615,
+"citableReference": "COPY 1/386/21",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting 50lb dumbbell, male posing, plate 321.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and front of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393410",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting 50lb dumbbell, male posing, plate 321.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and front of subject. "
+},
+"C9393412": {
+"catalogueId": -4686617,
+"citableReference": "COPY 1/386/22",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting and letting down two 50lb dumbbells, plate 322.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and left hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393412",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting and letting down two 50lb dumbbells, plate 322.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and left hand side of subject. "
+},
+"C9393414": {
+"catalogueId": -4686619,
+"citableReference": "COPY 1/386/23",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting and letting down two 50lb dumbbells, plate 323.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from back and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393414",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting and letting down two 50lb dumbbells, plate 323.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from back and right hand side of subject. "
+},
+"C9393416": {
+"catalogueId": -4686621,
+"citableReference": "COPY 1/386/24",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male curling 50lb dumbbell, model \u00be length, plate 324.&#34 </p><p>Sheet comprises sequence of 20 photographic images, set in 2 rows, showing movement from front and left hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393416",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male curling 50lb dumbbell, model \u00be length, plate 324.\" \nSheet comprises sequence of 20 photographic images, set in 2 rows, showing movement from front and left hand side of subject. "
+},
+"C9393417": {
+"catalogueId": -4686622,
+"citableReference": "COPY 1/386/25",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting and holding two 50lb dumbbells, plate 325.&#34 </p><p>Sheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front and left hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393417",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting and holding two 50lb dumbbells, plate 325.\" \nSheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front and left hand side of subject. "
+},
+"C9393418": {
+"catalogueId": -4686623,
+"citableReference": "COPY 1/386/26",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting 30lb dumbbell at arms length, plate 326.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and back of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393418",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting 30lb dumbbell at arms length, plate 326.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and back of subject. "
+},
+"C9393419": {
+"catalogueId": -4686624,
+"citableReference": "COPY 1/386/27",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male rowing, plate 327.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from back and front, at around 45% to the right, of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393419",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male rowing, plate 327.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from back and front, at around 45% to the right, of the subject."
+},
+"C9393420": {
+"catalogueId": -4686625,
+"citableReference": "COPY 1/386/28",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male rowing, plate 328.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from back and front, at around 45% to the left, of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393420",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male rowing, plate 328.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from back and front, at around 45% to the left, of the subject."
+},
+"C9393422": {
+"catalogueId": -4686627,
+"citableReference": "COPY 1/386/29",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing (shoes), plate 329.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393422",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing (shoes), plate 329.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject."
+},
+"C9393424": {
+"catalogueId": -4686629,
+"citableReference": "COPY 1/386/30",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing, cross counter (shoes), plate 330.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393424",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing, cross counter (shoes), plate 330.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front of subject."
+},
+"C9393426": {
+"catalogueId": -4686631,
+"citableReference": "COPY 1/386/31",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing, stop for cross buttocks (shoes), plate 331.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 24 photographic images, in 1 row, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393426",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing, stop for cross buttocks (shoes), plate 331.\" \nSheet comprises two sequences. First sequence comprises 10 photographic images, set in 2 rows, showing movement from front of subject. Second sequence comprises 24 photographic images, in 1 row, showing movement from front of the subject."
+},
+"C9393427": {
+"catalogueId": -4686632,
+"citableReference": "COPY 1/386/32",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing, cross buttocks (shoes), plate 332.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 6 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 18 photographic images, in 3 rows, showing movement from front and sides of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393427",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing, cross buttocks (shoes), plate 332.\" \nSheet comprises two sequences. First sequence comprises 6 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 18 photographic images, in 3 rows, showing movement from front and sides of the subject."
+},
+"C9393429": {
+"catalogueId": -4686634,
+"citableReference": "COPY 1/386/33",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing, No 53 knocking No 52 down (shoes), plate 333.&#34 </p> <p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from front and left hand side of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393429",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing, No 53 knocking No 52 down (shoes), plate 333.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from front and left hand side of the subject."
+},
+"C9393430": {
+"catalogueId": -4686635,
+"citableReference": "COPY 1/386/34",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing with gloves (shoes), plate 334.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393430",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing with gloves (shoes), plate 334.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from front of the subject."
+},
+"C9393432": {
+"catalogueId": -4686637,
+"citableReference": "COPY 1/386/35",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing with gloves (shoes), plate 335.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393432",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing with gloves (shoes), plate 335.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 3 rows, showing movement from front of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject."
+},
+"C9393434": {
+"catalogueId": -4686639,
+"citableReference": "COPY 1/386/36",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing with open hand (shoes), plate 336.&#34 </p> <p>Sheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393434",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing with open hand (shoes), plate 336.\" \nSheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject."
+},
+"C9393435": {
+"catalogueId": -4686640,
+"citableReference": "COPY 1/386/37",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing with open hand, plate 337.&#34 </p><p>Sheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from left hand side, at around 45 degrees to the right, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393435",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing with open hand, plate 337.\" \nSheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from left hand side, at around 45 degrees to the right, of subject."
+},
+"C9393436": {
+"catalogueId": -4686641,
+"citableReference": "COPY 1/386/38",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing open hand (shoes), plate 338.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393436",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing open hand (shoes), plate 338.\" \nSheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject."
+},
+"C9393437": {
+"catalogueId": -4686642,
+"citableReference": "COPY 1/386/39",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing open hand (shoes), plate 339.&#34 </p> <p>Sheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from left hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393437",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing open hand (shoes), plate 339.\" \nSheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from left hand side of subject."
+},
+"C9393439": {
+"catalogueId": -4686644,
+"citableReference": "COPY 1/386/40",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing open hand (shoes), plate 340.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393439",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing open hand (shoes), plate 340.\" \nSheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject."
+},
+"C9393443": {
+"catalogueId": -4686648,
+"citableReference": "COPY 1/386/41",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing open hand (shoes), plate 341.&#34 </p><p>Sheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393443",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing open hand (shoes), plate 341.\" \nSheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front of subject."
+},
+"C9393446": {
+"catalogueId": -4686651,
+"citableReference": "COPY 1/386/42",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males boxing open hand (shoes), plate 342.&#34 </p><p>Sheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393446",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males boxing open hand (shoes), plate 342.\" \nSheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front of subject."
+},
+"C9393448": {
+"catalogueId": -4686653,
+"citableReference": "COPY 1/386/43",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male striking a blow (left hand), plate 343.&#34 </p><p>Sheet comprises sequence of 6 photographic images, set in 2 rows, showing movement from back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393448",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male striking a blow (left hand), plate 343.\" \nSheet comprises sequence of 6 photographic images, set in 2 rows, showing movement from back of subject."
+},
+"C9393450": {
+"catalogueId": -4686655,
+"citableReference": "COPY 1/386/44",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male striking a blow (right hand), plate 344.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from left hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393450",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male striking a blow (right hand), plate 344.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from left hand side of subject."
+},
+"C9393452": {
+"catalogueId": -4686657,
+"citableReference": "COPY 1/386/45",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males wrestling, lock, plate 345.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393452",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males wrestling, lock, plate 345.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject."
+},
+"C9393454": {
+"catalogueId": -4686659,
+"citableReference": "COPY 1/386/46",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males wrestling, lock, plate 346.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement back, front, left hand side and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393454",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males wrestling, lock, plate 346.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement back, front, left hand side and right hand side of subject."
+},
+"C9393456": {
+"catalogueId": -4686661,
+"citableReference": "COPY 1/386/47",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males wrestling, Graeco Roman, plate 347.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393456",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males wrestling, Graeco Roman, plate 347.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from front of subject."
+},
+"C9393461": {
+"catalogueId": -4686666,
+"citableReference": "COPY 1/386/48",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males wrestling, Graeco Roman, plate 348.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side, at around 45 degrees to the right of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393461",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males wrestling, Graeco Roman, plate 348.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side, at around 45 degrees to the right of subject. "
+},
+"C9393463": {
+"catalogueId": -4686668,
+"citableReference": "COPY 1/386/49",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males fencing, plate 349.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393463",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males fencing, plate 349.\" \nSheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject. "
+},
+"C9393464": {
+"catalogueId": -4686669,
+"citableReference": "COPY 1/386/50",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of males fencing, plate 350.&#34 </p><p>Sheet comprises sequence of 18 photographic images, set in 3 rows, showing movement from left hand side and right hand side of subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393464",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of males fencing, plate 350.\" \nSheet comprises sequence of 18 photographic images, set in 3 rows, showing movement from left hand side and right hand side of subject. "
+},
+"C9393465": {
+"catalogueId": -4686670,
+"citableReference": "COPY 1/386/51",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male 'fix' and 'unfix' bayonets, plate 351.&#34 </p><p>Sheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393465",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male 'fix' and 'unfix' bayonets, plate 351.\" \nSheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject."
+},
+"C9393467": {
+"catalogueId": -4686672,
+"citableReference": "COPY 1/386/52",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male 'shoulder', 'order' and 'carry arms', plate 352.&#34 </p><p>Sheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393467",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male 'shoulder', 'order' and 'carry arms', plate 352.\" \nSheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject."
+},
+"C9393468": {
+"catalogueId": -4686673,
+"citableReference": "COPY 1/386/53",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male 'support arms' and 'arms port', plate 353.&#34 </p><p>Sheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393468",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male 'support arms' and 'arms port', plate 353.\" \nSheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject."
+},
+"C9393469": {
+"catalogueId": -4686674,
+"citableReference": "COPY 1/386/54",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male 'carry arms', 'parade rest' and 'haul arms', plate 354.&#34 </p><p>Sheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393469",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male 'carry arms', 'parade rest' and 'haul arms', plate 354.\" \nSheet comprises sequence of 33 photographic images, set in 3 rows, showing movement from front, left hand side, at around 45 degrees to the right, and right hand side, at around 45 degrees to the left, of subject."
+},
+"C9393471": {
+"catalogueId": -4686676,
+"citableReference": "COPY 1/386/55",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male on guard, walking and turning round, plate 355.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from left hand side, right hand side, at around 45 degrees to the left, and back, at around 45 degrees to the right, of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393471",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male on guard, walking and turning round, plate 355.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from left hand side, right hand side, at around 45 degrees to the left, and back, at around 45 degrees to the right, of subject."
+},
+"C9393475": {
+"catalogueId": -4686680,
+"citableReference": "COPY 1/386/56",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male kneeling, firing and rising, plate 356.&#34 </p><p>Sheet comprises three sequences. First sequence comprises 8 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 7 photographic images, in 1 row, showing movement from left hand side of the subject. Third sequence comprises 6 photographic images, in 1 row, showing movement from right hand side of the subject. </p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393475",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male kneeling, firing and rising, plate 356.\" \nSheet comprises three sequences. First sequence comprises 8 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 7 photographic images, in 1 row, showing movement from left hand side of the subject. Third sequence comprises 6 photographic images, in 1 row, showing movement from right hand side of the subject. "
+},
+"C9393476": {
+"catalogueId": -4686681,
+"citableReference": "COPY 1/386/57",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lying prone and firing, plate 357.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from left hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393476",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lying prone and firing, plate 357.\" \nSheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from left hand side, front and back of subject."
+},
+"C9393478": {
+"catalogueId": -4686683,
+"citableReference": "COPY 1/386/58",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lying on back and firing, plate 358.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from laft hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393478",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lying on back and firing, plate 358.\" \nSheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from laft hand side, front and back of subject."
+},
+"C9393479": {
+"catalogueId": -4686684,
+"citableReference": "COPY 1/386/59",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male charging bayonet, plate 359.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from left hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393479",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male charging bayonet, plate 359.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from left hand side, front and back of subject."
+},
+"C9393481": {
+"catalogueId": -4686686,
+"citableReference": "COPY 1/386/60",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male throwing a spear, plate 360.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from left hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393481",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male throwing a spear, plate 360.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from left hand side and back of subject."
+},
+"C9393483": {
+"catalogueId": -4686688,
+"citableReference": "COPY 1/386/61",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male throwing a spear, plate 361.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393483",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male throwing a spear, plate 361.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and right hand side of subject."
+},
+"C9393485": {
+"catalogueId": -4686690,
+"citableReference": "COPY 1/386/62",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, back somersault, plate 362.&#34 </p> <p>Sheet comprises sequence of 28 photographic images, set in 2 rows, showing movement from left hand side and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393485",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, back somersault, plate 362.\" \nSheet comprises sequence of 28 photographic images, set in 2 rows, showing movement from left hand side and front of subject."
+},
+"C9393487": {
+"catalogueId": -4686692,
+"citableReference": "COPY 1/386/63",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, running somersault, plate 363.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393487",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, running somersault, plate 363.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject."
+},
+"C9393488": {
+"catalogueId": -4686693,
+"citableReference": "COPY 1/386/64",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, hand spring over man's back, plate 364.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393488",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, hand spring over man's back, plate 364.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and front of subject."
+},
+"C9393490": {
+"catalogueId": -4686695,
+"citableReference": "COPY 1/386/65",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, hand spring, a flying pigeon interfering, plate 365.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in a single row, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393490",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, hand spring, a flying pigeon interfering, plate 365.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in a single row, showing movement from front of the subject."
+},
+"C9393491": {
+"catalogueId": -4686696,
+"citableReference": "COPY 1/386/66",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male running, hitch and kick, plate 366.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from right hand side and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393491",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male running, hitch and kick, plate 366.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from right hand side and front of subject."
+},
+"C9393493": {
+"catalogueId": -4686698,
+"citableReference": "COPY 1/386/67",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of female kicking a hat, plate 367.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from back, right hand side and left hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393493",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of female kicking a hat, plate 367.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from back, right hand side and left hand side of subject."
+},
+"C9393495": {
+"catalogueId": -4686700,
+"citableReference": "COPY 1/386/68",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male acrobat descending stairs on hands, plate 368.&#34 </p> <p>Sheet comprises sequence of 20 photographic images, set in 2 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393495",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male acrobat descending stairs on hands, plate 368.\" \nSheet comprises sequence of 20 photographic images, set in 2 rows, showing movement from right hand side and back of subject."
+},
+"C9393497": {
+"catalogueId": -4686702,
+"citableReference": "COPY 1/386/69",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, first ballet action, plate 369.&#34 </p> <p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393497",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, first ballet action, plate 369.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from back of subject."
+},
+"C9393498": {
+"catalogueId": -4686703,
+"citableReference": "COPY 1/386/70",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male, first ballet action, plate 370.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393498",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male, first ballet action, plate 370.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and left hand side of subject."
+},
+"C9393500": {
+"catalogueId": -4686705,
+"citableReference": "COPY 1/386/71",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male acrobat, vertical 'press ups', plate 371.&#34 </p><p>Sheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393500",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male acrobat, vertical 'press ups', plate 371.\" \nSheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from front of subject."
+},
+"C9393502": {
+"catalogueId": -4686707,
+"citableReference": "COPY 1/386/72",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male acrobat, horizontal 'press ups', plate 372.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393502",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male acrobat, horizontal 'press ups', plate 372.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject."
+},
+"C9393503": {
+"catalogueId": -4686708,
+"citableReference": "COPY 1/386/73",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male acrobat, 'press up' from chair, plate 373.&#34 </p><p>Sheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393503",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male acrobat, 'press up' from chair, plate 373.\" \nSheet comprises sequence of 16 photographic images, set in 2 rows, showing movement from front and back of subject."
+},
+"C9393505": {
+"catalogueId": -4686710,
+"citableReference": "COPY 1/386/74",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male blacksmiths, two models, hammering on anvil, plate 374.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393505",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male blacksmiths, two models, hammering on anvil, plate 374.\" \nSheet comprises sequence of 12 photographic images, set in 3 rows, showing movement from front of subject."
+},
+"C9393507": {
+"catalogueId": -4686712,
+"citableReference": "COPY 1/386/75",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male blacksmiths, two models, hammering on anvil, plate 375.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393507",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male blacksmiths, two models, hammering on anvil, plate 375.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and back of subject."
+},
+"C9393509": {
+"catalogueId": -4686714,
+"citableReference": "COPY 1/386/76",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male blacksmith, hammering on anvil, two hands, plate 376.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393509",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male blacksmith, hammering on anvil, two hands, plate 376.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject."
+},
+"C9393510": {
+"catalogueId": -4686715,
+"citableReference": "COPY 1/386/77",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male blacksmiths, two models, hammering on anvil, plate 377.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393510",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male blacksmiths, two models, hammering on anvil, plate 377.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front and right hand side of subject."
+},
+"C9393512": {
+"catalogueId": -4686717,
+"citableReference": "COPY 1/386/78",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male blacksmith, hammering on anvil, two hands, plate 378.&#34 </p><p>Sheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393512",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male blacksmith, hammering on anvil, two hands, plate 378.\" \nSheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject."
+},
+"C9393514": {
+"catalogueId": -4686719,
+"citableReference": "COPY 1/386/79",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male carpenter, planing a board, plate 379.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from left hand side and back of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393514",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male carpenter, planing a board, plate 379.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 24 photographic images, in 2 rows, showing movement from left hand side and back of the subject."
+},
+"C9393516": {
+"catalogueId": -4686721,
+"citableReference": "COPY 1/386/80",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male carpenter, sawing a board, plate 380.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393516",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male carpenter, sawing a board, plate 380.\" \nSheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from front and back of subject."
+},
+"C9393518": {
+"catalogueId": -4686723,
+"citableReference": "COPY 1/386/81",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male mason laying a brick, plate 381.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393518",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male mason laying a brick, plate 381.\" \nSheet comprises sequence of 24 photographic images, set in 3 rows, showing movement from front and right hand side of subject."
+},
+"C9393520": {
+"catalogueId": -4686725,
+"citableReference": "COPY 1/386/82",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting a log on end, plate 382.&#34 </p><p>Sheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393520",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting a log on end, plate 382.\" \nSheet comprises sequence of 30 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject."
+},
+"C9393522": {
+"catalogueId": -4686727,
+"citableReference": "COPY 1/386/83",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting a log on shoulder, plate 383.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393522",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting a log on shoulder, plate 383.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from right hand side, front and back of subject."
+},
+"C9393523": {
+"catalogueId": -4686728,
+"citableReference": "COPY 1/386/84",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male heaving a log from shoulder, plate 384.&#34 </p><p>Sheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from right hand side and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393523",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male heaving a log from shoulder, plate 384.\" \nSheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from right hand side and front of subject."
+},
+"C9393525": {
+"catalogueId": -4686730,
+"citableReference": "COPY 1/386/85",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer, using a pick, plate 385.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393525",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer, using a pick, plate 385.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from left hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from front of the subject."
+},
+"C9393526": {
+"catalogueId": -4686731,
+"citableReference": "COPY 1/386/86",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male miner, using a pick, plate 386.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front of dressed subject..</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393526",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male miner, using a pick, plate 386.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from front of dressed subject.."
+},
+"C9393528": {
+"catalogueId": -4686733,
+"citableReference": "COPY 1/386/87",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer using a long handled shovel, plate 387.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front, left hand side and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393528",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer using a long handled shovel, plate 387.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from front, left hand side and right hand side of subject."
+},
+"C9393530": {
+"catalogueId": -4686735,
+"citableReference": "COPY 1/386/88",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer using a spade, plate 388.&#34 </p><p>Sheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from back and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393530",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer using a spade, plate 388.\" \nSheet comprises sequence of 36 photographic images, set in 3 rows, showing movement from back and front of subject."
+},
+"C9393531": {
+"catalogueId": -4686736,
+"citableReference": "COPY 1/386/89",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer scattering seed, plate 389.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393531",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer scattering seed, plate 389.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from right hand side and back of subject."
+},
+"C9393532": {
+"catalogueId": -4686737,
+"citableReference": "COPY 1/386/90",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer mowing grass, plate 390.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393532",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer mowing grass, plate 390.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and back of subject."
+},
+"C9393534": {
+"catalogueId": -4686739,
+"citableReference": "COPY 1/386/91",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male farmer mowing grass, plate 391.&#34 </p> <p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393534",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male farmer mowing grass, plate 391.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from front and right hand side of subject."
+},
+"C9393535": {
+"catalogueId": -4686740,
+"citableReference": "COPY 1/386/92",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male dragging a garden roller, plate 392.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393535",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male dragging a garden roller, plate 392.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 2 rows, showing movement from right hand side of subject. Second sequence comprises 12 photographic images, in 1 row, showing movement from back of the subject."
+},
+"C9393537": {
+"catalogueId": -4686742,
+"citableReference": "COPY 1/386/93",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male pushing a garden roller, plate 393.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393537",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male pushing a garden roller, plate 393.\" \nSheet comprises sequence of 24 photographic images, set in 4 rows, showing movement from right hand side and back of subject."
+},
+"C9393539": {
+"catalogueId": -4686744,
+"citableReference": "COPY 1/386/94",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male turning a crank handle, plate 394.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from back of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from left hand side of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393539",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male turning a crank handle, plate 394.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from back of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from left hand side of the subject."
+},
+"C9393540": {
+"catalogueId": -4686745,
+"citableReference": "COPY 1/386/95",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male turning a crank handle, plate 395.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from right hand side of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393540",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male turning a crank handle, plate 395.\" \nSheet comprises two sequences. First sequence comprises 12 photographic images, set in 1 row, showing movement from front of subject. Second sequence comprises 12 photographic images, in 2 rows, showing movement from right hand side of the subject."
+},
+"C9393542": {
+"catalogueId": -4686747,
+"citableReference": "COPY 1/386/96",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male pounding with a mallet, plate 396.&#34 </p><p>Sheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from front and right hand side of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393542",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male pounding with a mallet, plate 396.\" \nSheet comprises sequence of 18 photographic images, set in 2 rows, showing movement from front and right hand side of subject."
+},
+"C9393543": {
+"catalogueId": -4686748,
+"citableReference": "COPY 1/386/97",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting 75lb stone on shoulder, plate 397.&#34 </p><p>Sheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393543",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting 75lb stone on shoulder, plate 397.\" \nSheet comprises sequence of 12 photographic images, set in 2 rows, showing movement from right hand side and back of subject."
+},
+"C9393544": {
+"catalogueId": -4686749,
+"citableReference": "COPY 1/386/98",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male lifting bucket of water to empty it, plate 398.&#34 </p><p>Sheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and front of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393544",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male lifting bucket of water to empty it, plate 398.\" \nSheet comprises sequence of 24 photographic images, set in 2 rows, showing movement from left hand side and front of subject."
+},
+"C9393546": {
+"catalogueId": -4686751,
+"citableReference": "COPY 1/386/99",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male emptying bucket of water, plate 399.&#34 </p><p>Sheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from right hand side and back of subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393546",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male emptying bucket of water, plate 399.\" \nSheet comprises sequence of 24 photographic images, of varying width, set in 2 rows, showing movement from right hand side and back of subject."
+},
+"C9393547": {
+"catalogueId": -4686752,
+"citableReference": "COPY 1/386/100",
+"coveringFromDate": 18870425,
+"coveringToDate": 18870425,
+"scopeContent": {
+"placeNames": [],
+"description": "<scopecontent><p>&#34Photograph of male emptying bucket of water, plate 400.&#34 </p><p>Sheet comprises two sequences. First sequence comprises 16 photographic images, of varying width, set in 2 rows, showing movement from right hand side and back of subject. Second sequence comprises 8 photographic images, in 2 rows, showing movement from front and left hand side of the subject.</p></scopecontent>",
+"ephemera": null,
+"schema": null
+},
+"id": "C9393547",
+"isParent": false,
+"catalogueLevel": 7,
+"parentId": "C326134",
+"DescriptionText": "\"Photograph of male emptying bucket of water, plate 400.\" \nSheet comprises two sequences. First sequence comprises 16 photographic images, of varying width, set in 2 rows, showing movement from right hand side and back of subject. Second sequence comprises 8 photographic images, in 2 rows, showing movement from front and left hand side of the subject."
+}
+}
