@@ -3,9 +3,9 @@
  * Check out the two endpoints this back-end API provides in fastify.get and fastify.post below
  */
 
+require("dotenv").config({ path: __dirname + "/.env" });
 const path = require("path");
-const fetch = require("node-fetch")
-
+const fetch = require("node-fetch");
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -29,6 +29,7 @@ fastify.register(require("@fastify/view"), {
   engine: {
     handlebars: require("handlebars"),
   },
+  root: path.join(__dirname),
 });
 
 // Load and parse SEO data
@@ -44,25 +45,31 @@ if (seo.url === "glitch-default") {
  */
 fastify.get("/", function (request, reply) {
   // params is an object we'll pass to our handlebars template
-  let params = { seo: seo };
 
-  // If someone clicked the option for a random color it'll be passed in the querystring
-  if (request.query.randomize) {
-    // We need to load our color data file, pick one at random, and add it to the params
-    const colors = require("./src/colors.json");
-    const allColors = Object.keys(colors);
-    let currentColor = allColors[(allColors.length * Math.random()) << 0];
+  // Boilerplate code:
+  // let params = { seo: seo };
 
-    // Add the color properties to the params object
-    params = {
-      color: colors[currentColor],
-      colorError: null,
-      seo: seo,
-    };
-  }
+  // // If someone clicked the option for a random color it'll be passed in the querystring
+  // if (request.query.randomize) {
+  //   // We need to load our color data file, pick one at random, and add it to the params
+  //   const colors = require("./src/colors.json");
+  //   const allColors = Object.keys(colors);
+  //   let currentColor = allColors[(allColors.length * Math.random()) << 0];
+
+  //   // Add the color properties to the params object
+  //   params = {
+  //     color: colors[currentColor],
+  //     colorError: null,
+  //     seo: seo,
+  //   };
+  // }
 
   // The Handlebars code will be able to access the parameter values and build them into the page
-  return reply.view("/src/pages/index.hbs", params);
+  //return reply.view("/src/pages/index.hbs", params);
+
+  // End boilerplate code.
+
+  return reply.view("./src/pages/index.hbs");
 });
 
 /**
@@ -108,13 +115,13 @@ fastify.post("/", function (request, reply) {
   return reply.view("/src/pages/index.hbs", params);
 });
 
-fastify.post('/search', async function(request, reply) {
-  let wiki_id = 'Q43922'
-  
+fastify.post("/search", async function (request, reply) {
+  let wiki_id = "Q43922";
+
   const wikiData = await requestQuery(wiki_id);
-  console.log('got the wikiData')
-  debugger
-  return {'data': wikiData}     
+  console.log("got the wikiData");
+  debugger;
+  return { data: wikiData };
 });
 
 // Run the server and report out to the logs
@@ -129,50 +136,49 @@ fastify.listen(
   }
 );
 
-
 async function requestQuery(wikidataid) {
-  const url = "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922"
-  
+  const url =
+    "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922";
+
   const res = await fetch(url, {
-      method: 'GET',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${process.env.BEARER_TOKEN}`
-      }
-    });
-  
-  const data = await res.json()
-  
-  console.log('response data: ', data)
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
+    },
+  });
+
+  const data = await res.json();
+
+  console.log("response data: ", data);
 
   return data;
-  
-//   return new Promise(async function(resolve, reject) {
-//     // console.log("url:", url)
-//     //let url = "https://en.wikipedia.org/w/api.php?origin=*";
-    
-//     // do something with wikidataid
-//     let url = "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922"
-//     debugger
-//     let fetchedVal = fetch(url, {
-//       method: 'GET',
-//       headers: {
-//          "User-Agent": "NationalArchivesNamedPersons (https://tna-named-persons.glitch.me/; jonnowitts@gmail.com)"
-//       }
-//     })
-//     .then((res) => {
-//       //console.log('Status: ' + res.status + ': ' + res.statusText)
-//       return res.json()
-//     })
-//     .then((data) => {ssd
-//       //console.log('data: ', resolve)
-//       return resolve(data.query)
-//     })
-//     .catch((err) => {
-//       console.error(err)
-//     })
 
-//     return fetchedVal
-//   })
+  //   return new Promise(async function(resolve, reject) {
+  //     // console.log("url:", url)
+  //     //let url = "https://en.wikipedia.org/w/api.php?origin=*";
+
+  //     // do something with wikidataid
+  //     let url = "https://www.wikidata.org/w/rest.php/wikibase/v1/entities/items/Q43922"
+  //     debugger
+  //     let fetchedVal = fetch(url, {
+  //       method: 'GET',
+  //       headers: {
+  //          "User-Agent": "NationalArchivesNamedPersons (https://tna-named-persons.glitch.me/; jonnowitts@gmail.com)"
+  //       }
+  //     })
+  //     .then((res) => {
+  //       //console.log('Status: ' + res.status + ': ' + res.statusText)
+  //       return res.json()
+  //     })
+  //     .then((data) => {ssd
+  //       //console.log('data: ', resolve)
+  //       return resolve(data.query)
+  //     })
+  //     .catch((err) => {
+  //       console.error(err)
+  //     })
+
+  //     return fetchedVal
+  //   })
 }
-
